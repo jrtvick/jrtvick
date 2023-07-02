@@ -27,5 +27,5 @@ My name is Tyler Vick. I am 32 years old and I live in Toronto, ON. I started my
 - 📫 How to reach me
   - discord @pullhard
   - email jrtvick@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns
   - he/him
